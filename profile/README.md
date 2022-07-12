@@ -17,8 +17,17 @@ Our team consists of talented designers and developers that are passionate about
 - Social Media Marketing
 
 ## Our Projects
-- ### DBroCode
+
+- ### DBroCode 
+<a href="https://www.instagram.com/d_bro_code/">
+  <img align="left" alt="Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a> </br>
+
 - ### QuoteParrot
+<a href="https://www.instagram.com/quote_codezone/">
+  <img align="left" alt="Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a> </br>
+
 - ### GameDev
 
 
@@ -34,6 +43,3 @@ Our team consists of talented designers and developers that are passionate about
 <a href="https://www.facebook.com/codezonetech/">
   <img align="left" alt="Facebook" width="120px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/d_bro_code/">
-  <img align="left" alt="Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a> 
