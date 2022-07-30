@@ -1,5 +1,7 @@
 # Welcome to [CodeZone](https://code-zone.tech/)
 
+<img src="https://github.com/CodeZoneTech/.github/blob/main/codezone.png" alt="codezoneimg">
+
 ## Our Story
 
 We started CodeZone as a educational platform for our junior batch and now we are grown to have our own startup.
