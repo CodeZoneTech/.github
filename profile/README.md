@@ -1,6 +1,4 @@
-# Welcome to [CodeZone](https://code-zone.tech/)
-
-<img src="https://github.com/CodeZoneTech/.github/blob/main/codezone.png" alt="codezoneimg">
+[<img src="https://github.com/CodeZoneTech/.github/blob/main/codezone.png" alt="codezoneimg">](https://code-zone.tech/)
 
 ## Our Story
 
