@@ -1,5 +1,7 @@
 # Welcome to CodeZone
 
+<img src="codezone.png" alt="codezoneimg">
+
 ## Our Story
 
 We started CodeZone as a educational platform for our junior batch and now we are grown to have our own startup.
