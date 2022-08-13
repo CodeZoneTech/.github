@@ -36,6 +36,20 @@ Our team consists of talented designers and developers that are passionate about
 | [<img  src="https://github.com/sasankaweera123.png?size=115" width="115"><br><sub>@sasankaweera123</sub>](https://github.com/sasankaweera123) | [<img  src="https://github.com/PramudithaPothuwila.png?size=115" width="115"><br><sub>@PramudithaPothuwila</sub>](https://github.com/PramudithaPothuwila) | [<img  src="https://github.com/nidnidulafernando.png?size=115" width="115"><br><sub>@nidnidulafernando</sub>](https://github.com/nidnidulafernando) | [<img src="https://github.com/Gayashani00.png?size=250" width="115"><br><sub>@Gayashani00</sub>](https://github.com/Gayashani00) |  [<img src="https://github.com/PavinduC.png?size=250" width="115"><br><sub>@PavinduC</sub>](https://github.com/PavinduC) |
 | :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |:-------------------------------------------------------------------------------------------------------------------: |:-------------------------------------------------------------------------------------------------------------------: |
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasankaweera123&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Sasanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasankaweera123&show_icons=true&theme=tokyonight)]((https://github.com/anuraghazra/github-readme-stats))
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PramudithaPothuwila&theme=dark&background=000000)](https://git.io/streak-stats)
+![Buddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramudithaPothuwila&show_icons=true&theme=radical)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nidnidulafernando&theme=dark&background=000000)](https://git.io/streak-stats)
+![nidnidulafernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidnidulafernando&show_icons=true&theme=cobalt)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gayashani00&theme=dark&background=000000)](https://git.io/streak-stats)
+![Gayashani00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayashani00&show_icons=true&theme=dracula)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavinduC&theme=dark&background=000000)](https://git.io/streak-stats)
+![Gayashani00's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavinduC&show_icons=true&theme=dracula)
 
 ## Find Us
 
