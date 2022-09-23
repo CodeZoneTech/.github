@@ -37,12 +37,12 @@ Our team consists of talented designers and developers that are passionate about
 | :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |:-------------------------------------------------------------------------------------------------------------------: |:-------------------------------------------------------------------------------------------------------------------: |
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasankaweera123&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Sasanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasankaweera123&show_icons=true&theme=tokyonight)]((https://github.com/anuraghazra/github-readme-stats))
+[![Sasanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasankaweera123&show_icons=true&theme=tokyonight)]((https://github.com/anuraghazra/github-readme-stats)) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasankaweera123&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sasankaweera123&theme=tokyonight)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PramudithaPothuwila&theme=dark&background=000000)](https://git.io/streak-stats)
-![Buddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramudithaPothuwila&show_icons=true&theme=radical)
+![Buddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramudithaPothuwila&show_icons=true&theme=radical)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PramudithaPothuwila&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramudithaPothuwila&theme=radical)
 
