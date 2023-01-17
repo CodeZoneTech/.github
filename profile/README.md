@@ -40,20 +40,25 @@ Our team consists of talented designers and developers that are passionate about
 [![Sasanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasankaweera123&show_icons=true&theme=tokyonight)]((https://github.com/anuraghazra/github-readme-stats)) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasankaweera123&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sasankaweera123&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sasankaweera123&theme=tokyonight&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PramudithaPothuwila&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Buddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramudithaPothuwila&show_icons=true&theme=radical)<br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PramudithaPothuwila&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PramudithaPothuwila&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PramudithaPothuwila&theme=radical&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nidnidulafernando&theme=dark&background=000000)](https://git.io/streak-stats)
 ![nidnidulafernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidnidulafernando&show_icons=true&theme=cobalt)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nidnidulafernando&theme=cobalt&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gayashani00&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Gayashani00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayashani00&show_icons=true&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gayashani00&theme=dracula&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavinduC&theme=dark&background=000000)](https://git.io/streak-stats)
-![Gayashani00's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavinduC&show_icons=true&theme=dracula)
+![PavinduC's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavinduC&show_icons=true&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PavinduC&theme=dracula&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Find Us
 
