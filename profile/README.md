@@ -38,7 +38,7 @@ Our team consists of talented designers and developers that are passionate about
 
 
 [![An image of @sasankaweera123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sasankaweera123)](https://holopin.io/@sasankaweera123)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasankaweera123&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sasankaweera123&theme=dark)](https://git.io/streak-stats)
 [![Sasanka's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sasankaweera123&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=tokyonight&bg_color=000000#gh-dark-mode-onl)]((https://github.com/anuraghazra/github-readme-stats)) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasankaweera123&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sasankaweera123&theme=tokyonight)
